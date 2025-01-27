@@ -23,7 +23,7 @@ from langchain_core.documents import Document
 from langchain_core.embeddings import Embeddings
 
 PERSIST_PATH = ".persist_vector_store"
-URL = "https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf"
+URL = "https://wagner.nyu.edu/"
 
 
 def load_and_split_documents(url: str) -> List[Document]:

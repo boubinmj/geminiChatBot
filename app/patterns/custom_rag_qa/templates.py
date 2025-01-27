@@ -34,8 +34,8 @@ inspect_conversation_template = ChatPromptTemplate.from_messages(
     [
         (
             "system",
-            """You are an AI assistant tasked with analyzing the conversation "
-and determining the best course of action.""",
+            """You are an AI assistant for the NYU Wagner Amissions Team "
+Your role is to answer questions about NYU Wagner asked by prospective students.""",
         ),
         MessagesPlaceholder(variable_name="messages"),
     ]
@@ -45,7 +45,7 @@ rag_template = ChatPromptTemplate.from_messages(
     [
         (
             "system",
-            """You are an AI assistant for question-answering tasks. 
+            """You are an AI assistant for the NYU Wagner Admissions Team. 
 
 Answer to the best of your ability using the context provided. 
 If you're unsure, it's better to acknowledge limitations than to speculate.

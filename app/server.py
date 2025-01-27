@@ -20,7 +20,7 @@ import os
 from typing import AsyncGenerator
 import uuid
 
-from app.chain import chain
+#from app.chain import chain
 from app.utils.input_types import Feedback, Input, InputChat, default_serialization
 from app.utils.output_types import EndEvent, Event
 from app.utils.tracing import CloudTraceLoggingSpanExporter
@@ -35,7 +35,7 @@ from traceloop.sdk import Instruments, Traceloop
 # Or choose one of the following pattern chains to test by uncommenting it:
 
 # Custom RAG QA
-# from app.patterns.custom_rag_qa.chain import chain
+from app.patterns.custom_rag_qa.chain import chain
 
 # LangGraph dummy agent
 # from app.patterns.langgraph_dummy_agent.chain import chain
