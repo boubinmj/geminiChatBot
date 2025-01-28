@@ -28,6 +28,7 @@ PERSIST_PATH = ".persist_vector_store"
 URL = "https://wagner.nyu.edu/lead-democracy-project"
 
 def generate_course_urls():
+    wagner_urls = []
     json_path = '/home/mjb9353/Documents/app-starter-pack/app/patterns/custom_rag_qa/web_content/wagner_landing_pages.json'
 
     with open(json_path, 'r') as file:
@@ -35,12 +36,12 @@ def generate_course_urls():
 
     # Print the data
     for el in data:
-        print(el['Path'])
+    #     print(el['Path'])
+        wagner_urls.append(el['Path'])
+        return wagner_urls
 
-
-def load_and_split_documents(url: str) -> List[Document]:
+def load_and_split_documents(url: list) -> List[Document]:
     """Load and split documents from a given URL."""
-    generate_course_urls()
     loader = WebBaseLoader(url)
     documents = loader.load()
     logging.info(f"# of documents loaded (pre-chunking) = {len(documents)}")
@@ -58,13 +59,17 @@ def get_vector_store(
     """Get or create a vector store."""
     vector_store = SKLearnVectorStore(embedding=embedding, persist_path=persist_path)
 
-    if not os.path.exists(persist_path):
-        doc_splits = load_and_split_documents(url=url)
-        vector_store.add_documents(documents=doc_splits)
-        vector_store.persist()
-    else:
-        doc_splits = load_and_split_documents(url=url)
-        vector_store.add_documents(documents=doc_splits)
-        vector_store.persist()
+    wag = generate_course_urls()
+    print(wag)
+
+    for el in wag:
+        print(el)
+        if not os.path.exists(persist_path):
+            doc_splits = load_and_split_documents(url=el)
+            vector_store.add_documents(documents=doc_splits)
+        else:
+            doc_splits = load_and_split_documents(url=el)
+            vector_store.add_documents(documents=doc_splits)
+    vector_store.persist()
 
     return vector_store
