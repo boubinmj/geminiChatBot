@@ -34,7 +34,8 @@ def generate_course_urls():
         data = json.load(file)
 
     # Print the data
-    print(data[0])
+    for el in data:
+        print(el['Path'])
 
 
 def load_and_split_documents(url: str) -> List[Document]:
