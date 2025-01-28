@@ -28,13 +28,13 @@ PERSIST_PATH = ".persist_vector_store"
 URL = "https://wagner.nyu.edu/lead-democracy-project"
 
 def generate_course_urls():
-    json_path = 'web_contnet/wagner_landing_page.json'
+    json_path = '/home/mjb9353/Documents/app-starter-pack/app/patterns/custom_rag_qa/web_content/wagner_landing_pages.json'
 
     with open(json_path, 'r') as file:
         data = json.load(file)
 
     # Print the data
-    print(data['Path'])
+    print(data[0])
 
 
 def load_and_split_documents(url: str) -> List[Document]:
@@ -58,6 +58,10 @@ def get_vector_store(
     vector_store = SKLearnVectorStore(embedding=embedding, persist_path=persist_path)
 
     if not os.path.exists(persist_path):
+        doc_splits = load_and_split_documents(url=url)
+        vector_store.add_documents(documents=doc_splits)
+        vector_store.persist()
+    else:
         doc_splits = load_and_split_documents(url=url)
         vector_store.add_documents(documents=doc_splits)
         vector_store.persist()
