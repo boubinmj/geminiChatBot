@@ -1,0 +1,172 @@
+[
+  {
+    "Title": "Student Portal",
+    "Path": "https://wagner.nyu.edu/portal/students",
+    "Content type": "Landing Page"
+  },
+  {
+    "Title": "Lobby Signage 8",
+    "Path": "https://wagner.nyu.edu/Lobby/signage/vertical8",
+    "Content type": "Landing Page"
+  },
+  {
+    "Title": "Lobby Signage 8.1",
+    "Path": "https://wagner.nyu.edu/Lobby/signage/vertical8.1",
+    "Content type": "Landing Page"
+  },
+  {
+    "Title": "Lobby Signage 3.1",
+    "Path": "https://wagner.nyu.edu/Lobby/signage/vertical3.1",
+    "Content type": "Landing Page"
+  },
+  {
+    "Title": "Labor Initiative",
+    "Path": "https://wagner.nyu.edu/laborinitiative",
+    "Content type": "Landing Page"
+  },
+  {
+    "Title": "Lobby Signage 3",
+    "Path": "https://wagner.nyu.edu/Lobby/signage/vertical3",
+    "Content type": "Landing Page"
+  },
+  {
+    "Title": "Rudin Center for Transportation Policy and Management",
+    "Path": "https://wagner.nyu.edu/rudincenter",
+    "Content type": "Landing Page"
+  },
+  {
+    "Title": "Faculty and Staff Portal",
+    "Path": "https://wagner.nyu.edu/portal/faculty-staff/restricted",
+    "Content type": "Landing Page"
+  },
+  {
+    "Title": "Academic Affairs Portal",
+    "Path": "https://wagner.nyu.edu/portal/faculty-staff/restricted/academic-affairs",
+    "Content type": "Landing Page"
+  },
+  {
+    "Title": "The NYU Democracy Project",
+    "Path": "https://wagner.nyu.edu/lead-democracy-project",
+    "Content type": "Landing Page"
+  },
+  {
+    "Title": "NYU migration",
+    "Path": "https://migration.nyu.edu/node/318591",
+    "Content type": "Landing Page"
+  },
+  {
+    "Title": "Digests",
+    "Path": "https://migration.nyu.edu/migration-digests",
+    "Content type": "Landing Page"
+  },
+  {
+    "Title": "New York University's Robert F. Wagner Graduate School of Public Service",
+    "Path": "https://wagner.nyu.edu/homepage",
+    "Content type": "Landing Page"
+  },
+  {
+    "Title": "News and Multimedia",
+    "Path": "https://wagner.nyu.edu/news",
+    "Content type": "Landing Page"
+  },
+  {
+    "Title": "Online MHA - Master of Health Administration Program",
+    "Path": "https://onlinemha.wagner.nyu.edu/home",
+    "Content type": "Landing Page"
+  },
+  {
+    "Title": "Lobby Signage",
+    "Path": "https://wagner.nyu.edu/Lobby/Signage/public_event1106",
+    "Content type": "Landing Page"
+  },
+  {
+    "Title": "Admitted Students",
+    "Path": "https://onlinemha.wagner.nyu.edu/admissions-requirements/admitted-students",
+    "Content type": "Landing Page"
+  },
+  {
+    "Title": "Event Highlights",
+    "Path": "https://wagner.nyu.edu/lobby/signage/customslides",
+    "Content type": "Landing Page"
+  },
+  {
+    "Title": "Research Support",
+    "Path": "https://migration.nyu.edu/grants",
+    "Content type": "Landing Page"
+  },
+  {
+    "Title": "Degree Requirements & Checksheets",
+    "Path": "https://wagner.nyu.edu/portal/students/academics/advisement/requirements",
+    "Content type": "Landing Page"
+  },
+  {
+    "Title": "Brochures",
+    "Path": "https://wagner.nyu.edu/education/degrees/brochures",
+    "Content type": "Landing Page"
+  },
+  {
+    "Title": "Admissions",
+    "Path": "https://wagner.nyu.edu/admissions",
+    "Content type": "Landing Page"
+  },
+  {
+    "Title": "Health Degree Programs",
+    "Path": "https://onlinemha.wagner.nyu.edu/health-degree-programs",
+    "Content type": "Landing Page"
+  },
+  {
+    "Title": "Health Degree Programs at NYU Wagner",
+    "Path": "https://wagner.nyu.edu/health-degrees",
+    "Content type": "Landing Page"
+  },
+  {
+    "Title": "Admitted Students",
+    "Path": "https://wagner.nyu.edu/admissions/admitted",
+    "Content type": "Landing Page"
+  },
+  {
+    "Title": "Thanks for signing up",
+    "Path": "https://wagner.nyu.edu/admissions/landing/thanks",
+    "Content type": "Landing Page"
+  },
+  {
+    "Title": "Thank You for Your Interest in NYU's Master of Health Administration",
+    "Path": "https://onlinemha.wagner.nyu.edu/mha/landing/thanks",
+    "Content type": "Landing Page"
+  },
+  {
+    "Title": "Degree Programs",
+    "Path": "https://wagner.nyu.edu/education/degrees",
+    "Content type": "Landing Page"
+  },
+  {
+    "Title": "Inclusion, Diversity, Belonging, & Equity",
+    "Path": "https://wagner.nyu.edu/community/inclusion-diversity-belonging-equity",
+    "Content type": "Landing Page"
+  },
+  {
+    "Title": "When in Capstone",
+    "Path": "https://wagner.nyu.edu/portal/students/academics/capstone/student",
+    "Content type": "Landing Page"
+  },
+  {
+    "Title": "Request More Information",
+    "Path": "https://onlinemha.wagner.nyu.edu/request_info",
+    "Content type": "Landing Page"
+  },
+  {
+    "Title": "General New Major Tom",
+    "Path": "https://wagner.nyu.edu/landing/general-programs",
+    "Content type": "Landing Page"
+  },
+  {
+    "Title": "MSPP New Major Tom",
+    "Path": "https://wagner.nyu.edu/landing/public-policy",
+    "Content type": "Landing Page"
+  },
+  {
+    "Title": "Capstone: Learning in Action",
+    "Path": "https://wagner.nyu.edu/portal/employers/capstone",
+    "Content type": "Landing Page"
+  }
+]

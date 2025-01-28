@@ -15,20 +15,32 @@
 import logging
 import os
 from typing import List
+import json
 
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import PyPDFLoader
 from langchain_community.vectorstores import SKLearnVectorStore
 from langchain_core.documents import Document
 from langchain_core.embeddings import Embeddings
+from langchain_community.document_loaders import WebBaseLoader
 
 PERSIST_PATH = ".persist_vector_store"
-URL = "https://wagner.nyu.edu/"
+URL = "https://wagner.nyu.edu/lead-democracy-project"
+
+def generate_course_urls():
+    json_path = 'web_contnet/wagner_landing_page.json'
+
+    with open(json_path, 'r') as file:
+        data = json.load(file)
+
+    # Print the data
+    print(data['Path'])
 
 
 def load_and_split_documents(url: str) -> List[Document]:
     """Load and split documents from a given URL."""
-    loader = PyPDFLoader(url)
+    generate_course_urls()
+    loader = WebBaseLoader(url)
     documents = loader.load()
     logging.info(f"# of documents loaded (pre-chunking) = {len(documents)}")
 

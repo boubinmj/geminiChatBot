@@ -37,7 +37,7 @@ import vertexai
 LOCATION = "us-central1"
 EMBEDDING_MODEL = "text-embedding-004"
 LLM = "gemini-1.5-flash-002"
-TOP_K = 5
+TOP_K = 10
 
 # Initialize logging
 logging.basicConfig(level=logging.INFO)

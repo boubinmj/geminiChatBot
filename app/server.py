@@ -59,7 +59,7 @@ logger = logging_client.logger(__name__)
 # Initialize Traceloop
 try:
     Traceloop.init(
-        app_name="Sample Chatbot Application",
+        app_name="Wagner Course Chatbot Application",
         disable_batch=False,
         exporter=CloudTraceLoggingSpanExporter(),
         instruments={Instruments.VERTEXAI, Instruments.LANGCHAIN},
