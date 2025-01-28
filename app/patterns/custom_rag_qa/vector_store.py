@@ -38,7 +38,7 @@ def generate_course_urls():
     for el in data:
     #     print(el['Path'])
         wagner_urls.append(el['Path'])
-        return wagner_urls
+    return wagner_urls
 
 def load_and_split_documents(url: list) -> List[Document]:
     """Load and split documents from a given URL."""
