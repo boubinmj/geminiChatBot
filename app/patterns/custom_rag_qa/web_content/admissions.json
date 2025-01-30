@@ -1,0 +1,1002 @@
+[
+  {
+    "SubPath": "/admissions",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions"
+  },
+  {
+    "SubPath": "/admissions-requirements",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions-requirements"
+  },
+  {
+    "SubPath": "/admissions-requirements/accept-your-offer",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions-requirements/accept-your-offer"
+  },
+  {
+    "SubPath": "/admissions-requirements/admitted-students",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions-requirements/admitted-students"
+  },
+  {
+    "SubPath": "/admissions-requirements/connect-with-us",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions-requirements/connect-with-us"
+  },
+  {
+    "SubPath": "/admissions-requirements/online-mha-cost-aid-assistance",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions-requirements/online-mha-cost-aid-assistance"
+  },
+  {
+    "SubPath": "/admissions-requirements/online-mha-events",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions-requirements/online-mha-events"
+  },
+  {
+    "SubPath": "/admissions-requirements/online-mha-events/class-visits",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions-requirements/online-mha-events/class-visits"
+  },
+  {
+    "SubPath": "/admissions-requirements/online-mha-events/past-events",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions-requirements/online-mha-events/past-events"
+  },
+  {
+    "SubPath": "/admissions-requirements/online-mha-events/webinars",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions-requirements/online-mha-events/webinars"
+  },
+  {
+    "SubPath": "/admissions-requirements/online-mha-frequently-asked-questions",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions-requirements/online-mha-frequently-asked-questions"
+  },
+  {
+    "SubPath": "/admissions-requirements/online-mha-how-to-apply",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions-requirements/online-mha-how-to-apply"
+  },
+  {
+    "SubPath": "/admissions-requirements/pre-orientation-checklist",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions-requirements/pre-orientation-checklist"
+  },
+  {
+    "SubPath": "/admissions-requirements/technology-requirements",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions-requirements/technology-requirements"
+  },
+  {
+    "SubPath": "/admissions/admitted",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/admitted"
+  },
+  {
+    "SubPath": "/admissions/admitted/accepted",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/admitted/accepted"
+  },
+  {
+    "SubPath": "/admissions/admitted/accepted/doctoral",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/admitted/accepted/doctoral"
+  },
+  {
+    "SubPath": "/admissions/admitted/accepted/global",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/admitted/accepted/global"
+  },
+  {
+    "SubPath": "/admissions/admitted/accepting-offer/transcript",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/admitted/accepting-offer/transcript"
+  },
+  {
+    "SubPath": "/admissions/admitted/asa_old",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/admitted/asa_old"
+  },
+  {
+    "SubPath": "/admissions/admitted/ASD",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/admitted/ASD"
+  },
+  {
+    "SubPath": "/admissions/admitted/ASD-videos",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/admitted/ASD-videos"
+  },
+  {
+    "SubPath": "/admissions/admitted/ASD/courseoverviews",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/admitted/ASD/courseoverviews"
+  },
+  {
+    "SubPath": "/admissions/admitted/right-for-me",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/admitted/right-for-me"
+  },
+  {
+    "SubPath": "/admissions/admitted/why-wagner-social",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/admitted/why-wagner-social"
+  },
+  {
+    "SubPath": "/admissions/applying",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/applying"
+  },
+  {
+    "SubPath": "/admissions/applying/ask-admissions",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/applying/ask-admissions"
+  },
+  {
+    "SubPath": "/admissions/applying/checklist",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/applying/checklist"
+  },
+  {
+    "SubPath": "/admissions/applying/degree-checklist/empa",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/applying/degree-checklist/empa"
+  },
+  {
+    "SubPath": "/admissions/applying/degree-checklist/mup",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/applying/degree-checklist/mup"
+  },
+  {
+    "SubPath": "/admissions/applying/degree-checklist/phd",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/applying/degree-checklist/phd"
+  },
+  {
+    "SubPath": "/admissions/applying/degree-checklist/reapplicants",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/applying/degree-checklist/reapplicants"
+  },
+  {
+    "SubPath": "/admissions/applying/dual-degrees-checklist/ba-mpa-and-ba-mup-program",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/applying/dual-degrees-checklist/ba-mpa-and-ba-mup-program"
+  },
+  {
+    "SubPath": "/admissions/applying/dual-degrees-checklist/empa-msw",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/applying/dual-degrees-checklist/empa-msw"
+  },
+  {
+    "SubPath": "/admissions/applying/dual-degrees-checklist/jd-mpa-or-jd-mup",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/applying/dual-degrees-checklist/jd-mpa-or-jd-mup"
+  },
+  {
+    "SubPath": "/admissions/applying/dual-degrees-checklist/mba-mpa-wth-the-nyu-stern-school-of-business",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/applying/dual-degrees-checklist/mba-mpa-wth-the-nyu-stern-school-of-business"
+  },
+  {
+    "SubPath": "/admissions/applying/dual-degrees-checklist/md-mpa",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/applying/dual-degrees-checklist/md-mpa"
+  },
+  {
+    "SubPath": "/admissions/attend-an-event",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/attend-an-event"
+  },
+  {
+    "SubPath": "/admissions/before/academics",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/before/academics"
+  },
+  {
+    "SubPath": "/admissions/connect-with-us",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/connect-with-us"
+  },
+  {
+    "SubPath": "/admissions/connect-with-us/admissions-events-recordings",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/connect-with-us/admissions-events-recordings"
+  },
+  {
+    "SubPath": "/admissions/contactus",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/contactus"
+  },
+  {
+    "SubPath": "/admissions/criteria",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/criteria"
+  },
+  {
+    "SubPath": "/admissions/criteria/academichistory",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/criteria/academichistory"
+  },
+  {
+    "SubPath": "/admissions/criteria/leadership",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/criteria/leadership"
+  },
+  {
+    "SubPath": "/admissions/criteria/testscores",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/criteria/testscores"
+  },
+  {
+    "SubPath": "/admissions/criteria/workexperience",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/criteria/workexperience"
+  },
+  {
+    "SubPath": "/admissions/deferralrequestform",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/deferralrequestform"
+  },
+  {
+    "SubPath": "/admissions/degree-checklist",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/degree-checklist"
+  },
+  {
+    "SubPath": "/admissions/degree-checklist/apc-nd",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/degree-checklist/apc-nd"
+  },
+  {
+    "SubPath": "/admissions/degree-checklist/dual",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/degree-checklist/dual"
+  },
+  {
+    "SubPath": "/admissions/degree-checklist/dual/ba-mpa-and-ba-mup",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/degree-checklist/dual/ba-mpa-and-ba-mup"
+  },
+  {
+    "SubPath": "/admissions/degree-checklist/dual/bs-mup",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/degree-checklist/dual/bs-mup"
+  },
+  {
+    "SubPath": "/admissions/degree-checklist/dual/empa-msw",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/degree-checklist/dual/empa-msw"
+  },
+  {
+    "SubPath": "/admissions/degree-checklist/dual/jd-mpa-or-jd-mup",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/degree-checklist/dual/jd-mpa-or-jd-mup"
+  },
+  {
+    "SubPath": "/admissions/degree-checklist/dual/mba-mpa",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/degree-checklist/dual/mba-mpa"
+  },
+  {
+    "SubPath": "/admissions/degree-checklist/dual/md-mpa",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/degree-checklist/dual/md-mpa"
+  },
+  {
+    "SubPath": "/admissions/degree-checklist/dual/mpa-ma",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/degree-checklist/dual/mpa-ma"
+  },
+  {
+    "SubPath": "/admissions/degree-checklist/dual/mpa-mair",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/degree-checklist/dual/mpa-mair"
+  },
+  {
+    "SubPath": "/admissions/degree-checklist/dual/mpa-mph",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/degree-checklist/dual/mpa-mph"
+  },
+  {
+    "SubPath": "/admissions/degree-checklist/dual/mpa-ms-applied-statistics",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/degree-checklist/dual/mpa-ms-applied-statistics"
+  },
+  {
+    "SubPath": "/admissions/degree-checklist/empa",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/degree-checklist/empa"
+  },
+  {
+    "SubPath": "/admissions/degree-checklist/international",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/degree-checklist/international"
+  },
+  {
+    "SubPath": "/admissions/degree-checklist/mpa",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/degree-checklist/mpa"
+  },
+  {
+    "SubPath": "/admissions/degree-checklist/mspp",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/degree-checklist/mspp"
+  },
+  {
+    "SubPath": "/admissions/degree-checklist/mup",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/degree-checklist/mup"
+  },
+  {
+    "SubPath": "/admissions/degree-checklist/phd",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/degree-checklist/phd"
+  },
+  {
+    "SubPath": "/admissions/degree-checklist/reapplicants",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/degree-checklist/reapplicants"
+  },
+  {
+    "SubPath": "/admissions/degree-checklist/transfer",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/degree-checklist/transfer"
+  },
+  {
+    "SubPath": "/admissions/degree-comparison",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/degree-comparison"
+  },
+  {
+    "SubPath": "/admissions/diversity-statement",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/diversity-statement"
+  },
+  {
+    "SubPath": "/admissions/financial-aid",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/financial-aid"
+  },
+  {
+    "SubPath": "/admissions/financial-aid/assistantships",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/financial-aid/assistantships"
+  },
+  {
+    "SubPath": "/admissions/financial-aid/external-scholarships",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/financial-aid/external-scholarships"
+  },
+  {
+    "SubPath": "/admissions/financial-aid/fellowships",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/financial-aid/fellowships"
+  },
+  {
+    "SubPath": "/admissions/financial-aid/fellowships/awpsfOLD",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/financial-aid/fellowships/awpsfOLD"
+  },
+  {
+    "SubPath": "/admissions/financial-aid/fellowships/bohnett",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/financial-aid/fellowships/bohnett"
+  },
+  {
+    "SubPath": "/admissions/financial-aid/fellowships/georgina-and-charlotte-bloomberg-public-service-fellows-program",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/financial-aid/fellowships/georgina-and-charlotte-bloomberg-public-service-fellows-program"
+  },
+  {
+    "SubPath": "/admissions/financial-aid/fellowships/goldberg",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/financial-aid/fellowships/goldberg"
+  },
+  {
+    "SubPath": "/admissions/financial-aid/fellowships/rice",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/financial-aid/fellowships/rice"
+  },
+  {
+    "SubPath": "/admissions/financial-aid/fellowships/simon",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/financial-aid/fellowships/simon"
+  },
+  {
+    "SubPath": "/admissions/financial-aid/loan-forgiveness",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/financial-aid/loan-forgiveness"
+  },
+  {
+    "SubPath": "/admissions/financial-aid/phd",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/financial-aid/phd"
+  },
+  {
+    "SubPath": "/admissions/financial-aid/scholarships",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/financial-aid/scholarships"
+  },
+  {
+    "SubPath": "/admissions/financial-aid/veterans-military-connected-students",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/financial-aid/veterans-military-connected-students"
+  },
+  {
+    "SubPath": "/admissions/landing",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/landing"
+  },
+  {
+    "SubPath": "/admissions/landing/thanks",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/landing/thanks"
+  },
+  {
+    "SubPath": "/admissions/mha-attend-an-event",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/mha-attend-an-event"
+  },
+  {
+    "SubPath": "/admissions/more-info",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/more-info"
+  },
+  {
+    "SubPath": "/admissions/visit-us/classes",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/visit-us/classes"
+  },
+  {
+    "SubPath": "/admissions/visit-us/connections_old",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/visit-us/connections_old"
+  },
+  {
+    "SubPath": "/admissions/waitlist",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/waitlist"
+  },
+  {
+    "SubPath": "/admissions/waitlist",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/waitlist"
+  },
+  {
+    "SubPath": "/admissions/waitlist",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/waitlist"
+  },
+  {
+    "SubPath": "/admissions/waitlist/confirmation",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/waitlist/confirmation"
+  },
+  {
+    "SubPath": "/admissions/waitlist/confirmation",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/waitlist/confirmation"
+  },
+  {
+    "SubPath": "/admissions/waitlist/drafts",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/waitlist/drafts"
+  },
+  {
+    "SubPath": "/admissions/waitlist/drafts",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/waitlist/drafts"
+  },
+  {
+    "SubPath": "/admissions/waitlist/submissions",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/waitlist/submissions"
+  },
+  {
+    "SubPath": "/admissions/waitlist/submissions",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/admissions/waitlist/submissions"
+  },
+  {
+    "SubPath": "/community/events/admissions-02-04-2017",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-02-04-2017"
+  },
+  {
+    "SubPath": "/community/events/admissions-02-04-2017",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-02-04-2017"
+  },
+  {
+    "SubPath": "/community/events/admissions-02-04-2017",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-02-04-2017"
+  },
+  {
+    "SubPath": "/community/events/admissions-02-04-2017",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-02-04-2017"
+  },
+  {
+    "SubPath": "/community/events/admissions-02-04-2017",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-02-04-2017"
+  },
+  {
+    "SubPath": "/community/events/admissions-03-21-2017",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-03-21-2017"
+  },
+  {
+    "SubPath": "/community/events/admissions-03-21-2017",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-03-21-2017"
+  },
+  {
+    "SubPath": "/community/events/admissions-03-21-2017",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-03-21-2017"
+  },
+  {
+    "SubPath": "/community/events/admissions-04-18-2017",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-04-18-2017"
+  },
+  {
+    "SubPath": "/community/events/admissions-04-18-2017",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-04-18-2017"
+  },
+  {
+    "SubPath": "/community/events/admissions-04-18-2017",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-04-18-2017"
+  },
+  {
+    "SubPath": "/community/events/admissions-04-18-2017",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-04-18-2017"
+  },
+  {
+    "SubPath": "/community/events/admissions-04-18-2017",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-04-18-2017"
+  },
+  {
+    "SubPath": "/community/events/admissions-04-18-2017",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-04-18-2017"
+  },
+  {
+    "SubPath": "/community/events/admissions-04-18-2017",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-04-18-2017"
+  },
+  {
+    "SubPath": "/community/events/admissions-04-18-2017",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-04-18-2017"
+  },
+  {
+    "SubPath": "/community/events/admissions-04-18-2017",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-04-18-2017"
+  },
+  {
+    "SubPath": "/community/events/admissions-04-18-2017",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-04-18-2017"
+  },
+  {
+    "SubPath": "/community/events/admissions-04-18-2017",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-04-18-2017"
+  },
+  {
+    "SubPath": "/community/events/admissions-06-18-2015",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-06-18-2015"
+  },
+  {
+    "SubPath": "/community/events/admissions-08-20-2015",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-08-20-2015"
+  },
+  {
+    "SubPath": "/community/events/admissions-10-17-2016",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-10-17-2016"
+  },
+  {
+    "SubPath": "/community/events/admissions-10-17-2016",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-10-17-2016"
+  },
+  {
+    "SubPath": "/community/events/admissions-10-27-2016",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-10-27-2016"
+  },
+  {
+    "SubPath": "/community/events/admissions-10-27-2016",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-10-27-2016"
+  },
+  {
+    "SubPath": "/community/events/admissions-11-14-2016",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-11-14-2016"
+  },
+  {
+    "SubPath": "/community/events/admissions-11-15-2016",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-11-15-2016"
+  },
+  {
+    "SubPath": "/community/events/admissions-11-15-2016",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-11-15-2016"
+  },
+  {
+    "SubPath": "/community/events/admissions-12-08-2015",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-12-08-2015"
+  },
+  {
+    "SubPath": "/community/events/admissions-12-08-2015",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-12-08-2015"
+  },
+  {
+    "SubPath": "/community/events/admissions-12-09-2016",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-12-09-2016"
+  },
+  {
+    "SubPath": "/community/events/admissions-ask-me-anything-2023-05-10",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-ask-me-anything-2023-05-10"
+  },
+  {
+    "SubPath": "/community/events/admissions-ask-me-anything-2023-05-10-0",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-ask-me-anything-2023-05-10-0"
+  },
+  {
+    "SubPath": "/community/events/admissions-ask-me-anything-2024-11-06",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-ask-me-anything-2024-11-06"
+  },
+  {
+    "SubPath": "/community/events/admissions-coffee-chat-2024-11-21",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-coffee-chat-2024-11-21"
+  },
+  {
+    "SubPath": "/community/events/admissions-info-session-mspp-mpa-policy-specialization-2024-10-14",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-info-session-mspp-mpa-policy-specialization-2024-10-14"
+  },
+  {
+    "SubPath": "/community/events/admissions-information-session-2013-06-28",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-information-session-2013-06-28"
+  },
+  {
+    "SubPath": "/community/events/admissions-information-session-2013-07-12",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-information-session-2013-07-12"
+  },
+  {
+    "SubPath": "/community/events/admissions-information-session-application-process-requirements-2021-10-05",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-information-session-application-process-requirements-2021-10-05"
+  },
+  {
+    "SubPath": "/community/events/admissions-information-session-application-process-requirements-2022-02-15",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-information-session-application-process-requirements-2022-02-15"
+  },
+  {
+    "SubPath": "/community/events/admissions-information-session-application-process-requirements-2022-10-06",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-information-session-application-process-requirements-2022-10-06"
+  },
+  {
+    "SubPath": "/community/events/admissions-information-session-application-process-requirements-2023-07-20",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-information-session-application-process-requirements-2023-07-20"
+  },
+  {
+    "SubPath": "/community/events/admissions-information-session-crafting-your-graduate-admissions-essay-2021-12-09",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-information-session-crafting-your-graduate-admissions-essay-2021-12-09"
+  },
+  {
+    "SubPath": "/community/events/admissions-information-session-crafting-your-graduate-admissions-essay-2022-05-18",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-information-session-crafting-your-graduate-admissions-essay-2022-05-18"
+  },
+  {
+    "SubPath": "/community/events/admissions-information-session-crafting-your-graduate-admissions-essay-2023-03-15",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-information-session-crafting-your-graduate-admissions-essay-2023-03-15"
+  },
+  {
+    "SubPath": "/community/events/admissions-information-session-graduate-application-process-requirements-2021-08",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-information-session-graduate-application-process-requirements-2021-08"
+  },
+  {
+    "SubPath": "/community/events/admissions-information-session-learn-more-about-our-programs-admissions",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-information-session-learn-more-about-our-programs-admissions"
+  },
+  {
+    "SubPath": "/community/events/admissions-information-session-learn-more-about-our-programs-admissions-0",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-information-session-learn-more-about-our-programs-admissions-0"
+  },
+  {
+    "SubPath": "/community/events/admissions-information-session-masters-programs-2014-08-14",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-information-session-masters-programs-2014-08-14"
+  },
+  {
+    "SubPath": "/community/events/admissions-information-session-masters-programs-2014-09-12",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-information-session-masters-programs-2014-09-12"
+  },
+  {
+    "SubPath": "/community/events/admissions-information-session-masters-programs-2014-12-09",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-information-session-masters-programs-2014-12-09"
+  },
+  {
+    "SubPath": "/community/events/admissions-information-session-nyu-wagner-2015-07-16",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-information-session-nyu-wagner-2015-07-16"
+  },
+  {
+    "SubPath": "/community/events/admissions-insights-ask-me-anything-2024-08-22",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-insights-ask-me-anything-2024-08-22"
+  },
+  {
+    "SubPath": "/community/events/admissions-insights-crafting-your-admissions-essays-2024-08-15",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-insights-crafting-your-admissions-essays-2024-08-15"
+  },
+  {
+    "SubPath": "/community/events/admissions-insights-international-applicant-requirements-2024-08-08",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-insights-international-applicant-requirements-2024-08-08"
+  },
+  {
+    "SubPath": "/community/events/admissions-insights-recommendations-resumes-2025-01-15",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/admissions-insights-recommendations-resumes-2025-01-15"
+  },
+  {
+    "SubPath": "/community/events/ask-me-admissions-anything-2016-12-08",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/ask-me-admissions-anything-2016-12-08"
+  },
+  {
+    "SubPath": "/community/events/ask-me-admissions-anything-2016-12-13",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/ask-me-admissions-anything-2016-12-13"
+  },
+  {
+    "SubPath": "/community/events/ask-me-anything-chat-admissions-officer-2016-04-26",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/ask-me-anything-chat-admissions-officer-2016-04-26"
+  },
+  {
+    "SubPath": "/community/events/ask-me-anything-chat-admissions-officer-2016-04-26-0",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/ask-me-anything-chat-admissions-officer-2016-04-26-0"
+  },
+  {
+    "SubPath": "/community/events/ask-me-anything-information-session-admissions-2021-05-05",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/ask-me-anything-information-session-admissions-2021-05-05"
+  },
+  {
+    "SubPath": "/community/events/crafting-your-graduate-admissions-essay-2023-08-24",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/crafting-your-graduate-admissions-essay-2023-08-24"
+  },
+  {
+    "SubPath": "/community/events/executive-mpa-empa-admissions-information-session-2023-03-22",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/executive-mpa-empa-admissions-information-session-2023-03-22"
+  },
+  {
+    "SubPath": "/community/events/information-session-chat-faculty-and-admissions-staff-2016-06-17",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/information-session-chat-faculty-and-admissions-staff-2016-06-17"
+  },
+  {
+    "SubPath": "/community/events/information-session-chat-faculty-and-admissions-staff-2016-07-22",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/information-session-chat-faculty-and-admissions-staff-2016-07-22"
+  },
+  {
+    "SubPath": "/community/events/information-session-chat-faculty-and-admissions-staff-2016-08-18",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/information-session-chat-faculty-and-admissions-staff-2016-08-18"
+  },
+  {
+    "SubPath": "/community/events/mha-admissions-drop-2024-08-28",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/mha-admissions-drop-2024-08-28"
+  },
+  {
+    "SubPath": "/community/events/mha-admissions-drop-2024-09-06",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/mha-admissions-drop-2024-09-06"
+  },
+  {
+    "SubPath": "/community/events/mha-drop-admissions-advising-2023-05-24",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/mha-drop-admissions-advising-2023-05-24"
+  },
+  {
+    "SubPath": "/community/events/mha-drop-admissions-advising-2023-05-24-0",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/mha-drop-admissions-advising-2023-05-24-0"
+  },
+  {
+    "SubPath": "/community/events/mha-drop-admissions-advising-2023-05-31",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/mha-drop-admissions-advising-2023-05-31"
+  },
+  {
+    "SubPath": "/community/events/mha-drop-admissions-advising-2023-06-07",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/mha-drop-admissions-advising-2023-06-07"
+  },
+  {
+    "SubPath": "/community/events/mha-drop-admissions-advising-2023-07-19",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/mha-drop-admissions-advising-2023-07-19"
+  },
+  {
+    "SubPath": "/community/events/mha-drop-admissions-advising-2023-07-19-0",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/mha-drop-admissions-advising-2023-07-19-0"
+  },
+  {
+    "SubPath": "/community/events/navigating-grad-school-admissions-process-virtual-presentation-2020-11-13",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/navigating-grad-school-admissions-process-virtual-presentation-2020-11-13"
+  },
+  {
+    "SubPath": "/community/events/new-york-university-graduate-admissions-event-for-veterans-2013-06-18",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/new-york-university-graduate-admissions-event-for-veterans-2013-06-18"
+  },
+  {
+    "SubPath": "/community/events/nyu-graduate-admissions-panel-2021-02-11",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/nyu-graduate-admissions-panel-2021-02-11"
+  },
+  {
+    "SubPath": "/community/events/nyu-wagner-admissions-coffee-chat-2024-09-30",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/nyu-wagner-admissions-coffee-chat-2024-09-30"
+  },
+  {
+    "SubPath": "/community/events/nyu-wagner-admissions-coffee-chat-2025-02-11",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/nyu-wagner-admissions-coffee-chat-2025-02-11"
+  },
+  {
+    "SubPath": "/community/events/ohs1-navigating-grad-school-admissions-process-virtual-presentation-for-undergrad",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/ohs1-navigating-grad-school-admissions-process-virtual-presentation-for-undergrad"
+  },
+  {
+    "SubPath": "/community/events/online-ask-me-anything-admissions-2021-02-04",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/online-ask-me-anything-admissions-2021-02-04"
+  },
+  {
+    "SubPath": "/community/events/online-ask-me-anything-admissions-2021-04-15",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/online-ask-me-anything-admissions-2021-04-15"
+  },
+  {
+    "SubPath": "/community/events/online-ask-me-anything-admissions-office-career-services-2020-01-22",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/online-ask-me-anything-admissions-office-career-services-2020-01-22"
+  },
+  {
+    "SubPath": "/community/events/online-ask-me-anything-admissions-office-career-services-2020-04-20",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/online-ask-me-anything-admissions-office-career-services-2020-04-20"
+  },
+  {
+    "SubPath": "/community/events/online-ask-me-anything-admissions-office-career-services-2020-04-20-0",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/online-ask-me-anything-admissions-office-career-services-2020-04-20-0"
+  },
+  {
+    "SubPath": "/community/events/online-info-session-career-services-admissions-2019-05-21",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/online-info-session-career-services-admissions-2019-05-21"
+  },
+  {
+    "SubPath": "/community/events/online-mha-drop-admissions-advising-2023-06-05",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/online-mha-drop-admissions-advising-2023-06-05"
+  },
+  {
+    "SubPath": "/community/events/online-mha-drop-admissions-advising-2023-06-12",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/online-mha-drop-admissions-advising-2023-06-12"
+  },
+  {
+    "SubPath": "/community/events/online-mha-drop-admissions-advising-2023-06-19",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/online-mha-drop-admissions-advising-2023-06-19"
+  },
+  {
+    "SubPath": "/community/events/online-mha-drop-admissions-advising-2023-06-26",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/online-mha-drop-admissions-advising-2023-06-26"
+  },
+  {
+    "SubPath": "/community/events/online-mha-drop-admissions-advising-2023-07-03",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/online-mha-drop-admissions-advising-2023-07-03"
+  },
+  {
+    "SubPath": "/community/events/online-office-hours-ms-health-law-strategy-faculty-admissions-2022-07-07",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/online-office-hours-ms-health-law-strategy-faculty-admissions-2022-07-07"
+  },
+  {
+    "SubPath": "/community/events/online-office-hours-ms-health-law-strategy-faculty-admissions-2022-07-07-0",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/online-office-hours-ms-health-law-strategy-faculty-admissions-2022-07-07-0"
+  },
+  {
+    "SubPath": "/community/events/test-information-session-chat-faculty-and-admissions-staff",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/test-information-session-chat-faculty-and-admissions-staff"
+  },
+  {
+    "SubPath": "/community/events/webinar-open-chat-admissions-500pm-2015-12-08",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/webinar-open-chat-admissions-500pm-2015-12-08"
+  },
+  {
+    "SubPath": "/community/events/webinar-open-chat-admissions-900am-2015-12-08",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/webinar-open-chat-admissions-900am-2015-12-08"
+  },
+  {
+    "SubPath": "/community/events/whats-next-after-affirmative-action-for-college-admissions-2023-11-14",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/whats-next-after-affirmative-action-for-college-admissions-2023-11-14"
+  },
+  {
+    "SubPath": "/community/events/whats-next-after-affirmative-action-for-college-admissions-2023-11-14-0",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/community/events/whats-next-after-affirmative-action-for-college-admissions-2023-11-14-0"
+  },
+  {
+    "SubPath": "/education/capstone/projects/analyzing-impact-nyc-high-school-admissions-policy-school-fundraising",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/education/capstone/projects/analyzing-impact-nyc-high-school-admissions-policy-school-fundraising"
+  },
+  {
+    "SubPath": "/education/capstone/projects/state-cannabis-laws-and-substance-use-disorder-treatment-admissions",
+    "prfix": "https://wagner.nyu.edu",
+    "Path": "https://wagner.nyu.edu/education/capstone/projects/state-cannabis-laws-and-substance-use-disorder-treatment-admissions"
+  }
+]
