@@ -8,10 +8,10 @@ staging_project_id = "wagnerwebstage"
 cicd_runner_project_id = "wagnerwebpipeline"
 
 # Name of the host connection you created in Cloud Build
-host_connection_name = "your-host-connection-name"
+host_connection_name = "MattGithub"
 
 # Name of the repository you added to Cloud Build
-repository_name = "your-repository-name"
+repository_name = "boubinmj-geminiChatBot"
 
 # The Google Cloud region you will use to deploy the infrastructure
 region = "us-central1"
