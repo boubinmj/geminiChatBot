@@ -59,17 +59,17 @@ def get_vector_store(
     """Get or create a vector store."""
     vector_store = SKLearnVectorStore(embedding=embedding, persist_path=persist_path)
 
-    # wag = generate_course_urls()
-    # print(wag)
+    wag = generate_course_urls()
+    print(wag)
 
-    # for el in wag:
-    #     print(el)
-    #     if not os.path.exists(persist_path):
-    #         doc_splits = load_and_split_documents(url=el)
-    #         vector_store.add_documents(documents=doc_splits)
-    #     else:
-    #         doc_splits = load_and_split_documents(url=el)
-    #         vector_store.add_documents(documents=doc_splits)
+    for el in wag:
+        print(el)
+        if not os.path.exists(persist_path):
+            doc_splits = load_and_split_documents(url=el)
+            vector_store.add_documents(documents=doc_splits)
+        else:
+            doc_splits = load_and_split_documents(url=el)
+            vector_store.add_documents(documents=doc_splits)
     vector_store.persist()
 
     return vector_store
