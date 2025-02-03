@@ -29,7 +29,7 @@ URL = "https://wagner.nyu.edu/lead-democracy-project"
 
 def generate_course_urls():
     wagner_urls = []
-    json_path = 'app-starter-pack/app/patterns/custom_rag_qa/web_content/admissions.json'
+    json_path = 'app/patterns/custom_rag_qa/web_content/admissions.json'
 
     with open(json_path, 'r') as file:
         data = json.load(file)
