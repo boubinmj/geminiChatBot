@@ -29,7 +29,7 @@ URL = "https://wagner.nyu.edu/lead-democracy-project"
 
 def generate_course_urls():
     wagner_urls = []
-    json_path = '/home/mjb9353/Documents/app-starter-pack/app/patterns/custom_rag_qa/web_content/admissions.json'
+    json_path = 'app-starter-pack/app/patterns/custom_rag_qa/web_content/admissions.json'
 
     with open(json_path, 'r') as file:
         data = json.load(file)
@@ -59,8 +59,8 @@ def get_vector_store(
     """Get or create a vector store."""
     vector_store = SKLearnVectorStore(embedding=embedding, persist_path=persist_path)
 
-    wag = generate_course_urls()
-    print(wag)
+    # wag = generate_course_urls()
+    # print(wag)
 
     # for el in wag:
     #     print(el)
