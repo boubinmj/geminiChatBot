@@ -1,11 +1,11 @@
 # Your Production Google Cloud project id
-prod_project_id = "your-production-project-id"
+prod_project_id = "wagner-web-vertex-ai"
 
 # Your Staging / Test Google Cloud project id
-staging_project_id = "your-staging-project-id"
+staging_project_id = "wagnerwebstage"
 
 # Your Google Cloud project ID that will be used to host the Cloud Build pipelines.
-cicd_runner_project_id = "your-cicd-project-id"
+cicd_runner_project_id = "wagnerwebpipeline"
 
 # Name of the host connection you created in Cloud Build
 host_connection_name = "your-host-connection-name"
