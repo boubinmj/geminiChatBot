@@ -60,10 +60,10 @@ def get_vector_store(
     vector_store = SKLearnVectorStore(embedding=embedding, persist_path=persist_path)
 
     wag = generate_course_urls()
-    print(wag)
+    #print(wag)
 
     for el in wag:
-        print(el)
+        #print(el)
         if not os.path.exists(persist_path):
             doc_splits = load_and_split_documents(url=el)
             vector_store.add_documents(documents=doc_splits)
